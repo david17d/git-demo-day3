@@ -1,4 +1,16 @@
 Introduction !!!!!!
+Adding middle part
 You can use this file to jot down quick notes during the labs.  Try adding, editing and deleting lines and observe how Git detects and records these changes.
 CONCLUSION!!!
-change in lab b!
+change in lab b! # made by Raluca
+
+Adding second middle part
+Adding third middle part
+
+CONCLUSION!!!!
+
+SECOND STASH CONCLUSION #second stash
+
+NEW CONCLUSION!!!! #first stash
+
+
