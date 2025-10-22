@@ -1,3 +1,6 @@
 Introduction !!!!!!
+Adding middle part
 You can use this file to jot down quick notes during the labs.  Try adding, editing and deleting lines and observe how Git detects and records these changes.
+Adding second middle part
+Adding third middle part
 CONCLUSION!!!!
