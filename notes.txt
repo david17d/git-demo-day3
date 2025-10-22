@@ -1,3 +1,5 @@
 You can use this file to jot down quick notes during the labs.  Try adding, editing and deleting lines and observe how Git detects and records these changes.
 CONCLUSION!!!
 change in lab b!
+2nd chang
+3rd changee
