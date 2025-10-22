@@ -1,0 +1,7 @@
+# Ignore editor backup files, system files, and logs
+*~
+*.swp
+*.log
+.DS_Store
+node_modules/
+__pycache__/
