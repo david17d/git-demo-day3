@@ -1,1 +1,2 @@
+Introduction !!!!!!
 You can use this file to jot down quick notes during the labs.  Try adding, editing and deleting lines and observe how Git detects and records these changes.
